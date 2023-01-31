@@ -17,7 +17,7 @@
 
 #### Here are a few things I've created throughout the years:
 
-## [Simulator for Out-of-Order Processor](https://github.com/ropelife/CAS)
+## [Simulator for Out-of-Order Processor](https://github.com/ropelife/Simulator-for-Out-of-Order-Processor)
  💹 Implemented an APEX-like ISA with an issue queue, a load-store queue and a reorder buffer that uses register renaming.<br>
  💻 Developed using C.
  #### Technologies used: 
