@@ -37,7 +37,9 @@ store, with help of individual’s voice
  - This app was built using Python utilizing Speech-To-Text (Trigger word detection) technology
  #### Technologies used:
 <img src="https://img.shields.io/badge/-Python%20-yellow"> </a> 
-<img src="https://img.shields.io/badge/-Speech--to--text%20-blue"> </a> 
+<img src="https://img.shields.io/badge/-Android%20-green"> </a> 
+<img src="https://img.shields.io/badge/-Speech--to--text%20-blue"> </a><br>
+Research Paper Link: https://www.irjet.net/archives/V7/i8/IRJET-V7I8590.pdf
  
  ## [Online Application for Women Services](https://github.com/ropelife/Online-Application-for-Women-Services)
  - A Website for women in rural India to apply to useful services provided for them by the Government of India.<br>
