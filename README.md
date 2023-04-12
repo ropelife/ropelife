@@ -13,7 +13,7 @@
 
 - :woman_technologist: I am a Software Developer
 - 🔭 Currently pursuing Master of Science in Computer Science at State University of New York, Binghamton
-- 👯 I’m actively looking for Summer 2023
+- 👯 I’m actively looking for Summer 2023 internships
 
 #### Here are a few things I've created throughout the years:
 
