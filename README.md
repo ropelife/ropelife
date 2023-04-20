@@ -5,7 +5,7 @@
   <img src="https://media0.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif?cid=ecf05e47fcz7aiqumrm1wzzegqrxv456d8w1atpug2nvsupj&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ropelife">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
