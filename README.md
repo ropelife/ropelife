@@ -17,6 +17,10 @@
 
 #### Here are a few things I've created throughout the years:
 
+## [Steam Game Analysis](https://github.com/ropelife/Simulator-for-Out-of-Order-Processor)
+ - Developed a web dashboard to import, analyze and visualize insights from a 40,000+ Steam game dataset. Features include interactive visualizations for genre popularity, sales trends and pricing analysis to help optimize game design and promotions.<br>
+ - Developed using Python (Flask), React.js and MongoDB Atlas.
+
 ## [Simulator for Out-of-Order Processor](https://github.com/ropelife/Simulator-for-Out-of-Order-Processor)
  - Implemented an APEX-like ISA with an issue queue, a load-store queue and a reorder buffer that uses register renaming.<br>
  - Developed using C.
