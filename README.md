@@ -13,7 +13,7 @@
 
 - :woman_technologist: I am a Software Developer
 - 🔭 Currently pursuing Master of Science in Computer Science at State University of New York, Binghamton
-- 👯 Actively looking for full-time Software Developer opportunitiees
+- Actively looking for full-time Software Developer opportunitiees
 
 #### Here are a few things I've created throughout the years:
 
