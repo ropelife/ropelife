@@ -19,14 +19,14 @@
 
 ## [Steam Game Analysis](https://github.com/achaud25/steam-game-analysis.git)
  - Developed a web dashboard to import, analyze and visualize insights from a 40,000+ Steam game dataset. Features include interactive visualizations for genre popularity, sales trends and pricing analysis to help optimize game design and promotions.<br>
- - Developed using Python (Flask), React.js and MongoDB Atlas.
+
+   <img src = "https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" height="35" width="35">      <img src= "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="35" width="35">    <img src= "https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="35" width="35">
+
 
 ## [Simulator for Out-of-Order Processor](https://github.com/ropelife/Simulator-for-Out-of-Order-Processor)
  - Implemented an APEX-like ISA with an issue queue, a load-store queue and a reorder buffer that uses register renaming.<br>
- - Developed using C.
- #### Languages used:
-<img src="https://img.shields.io/badge/-C%20-blue"> </a> 
-
+   
+   <img src= "https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="35" width="35">
 
 ## [Career Advancement Scheme Portal](https://github.com/ropelife/CAS)
  - A Website for universities which can be used by faculty to apply for pay raises.<br>
@@ -43,7 +43,7 @@ store, with help of individual’s voice
 <img src="https://img.shields.io/badge/-Python%20-yellow"> </a> 
 <img src="https://img.shields.io/badge/-Android%20-green"> </a> 
 <img src="https://img.shields.io/badge/-Speech--to--text%20-blue"> </a><br>
-Research Paper Link: https://www.irjet.net/archives/V7/i8/IRJET-V7I8590.pdf
+> Research Paper Link: https://www.irjet.net/archives/V7/i8/IRJET-V7I8590.pdf
  
  ## [Online Application for Women Services](https://github.com/ropelife/Online-Application-for-Women-Services)
  - A Website for women in rural India to apply to useful services provided for them by the Government of India.<br>
