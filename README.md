@@ -17,6 +17,10 @@
 
 #### Here are a few things I've created throughout the years:
 
+## [Live Stream Chat App](https://github.com/ropelife/Live-Stream-Chat-App-Spring-Boot---Web-Socket-.git)
+ - Developed a real time communication application, using WebSocket in SpringBoot to allow real-time data exchange between clients and servers<br>
+     <img src = "https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" height="100%" width="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://cdn.freebiesupply.com/logos/large/2x/java-4-logo-png-transparent.png" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://static-00.iconduck.com/assets.00/websocket-icon-512x384-sm7dfowk.png" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## [Steam Game Analysis](https://github.com/achaud25/steam-game-analysis.git)
  - Developed a web dashboard to import, analyze and visualize insights from a 40,000+ Steam game dataset. Features include interactive visualizations for genre popularity, sales trends and pricing analysis to help optimize game design and promotions.<br>
 
