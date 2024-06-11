@@ -12,7 +12,6 @@
 <!-- <hr> -->
 
 - :woman_technologist: I am a Software Developer
-- 🔭 CS Grad at State University of New York, Binghamton | Ex-Oracle
 - Actively looking for full-time Software Developer opportunities
 
 #### Here are a few things I've created throughout the years:
