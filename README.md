@@ -18,8 +18,7 @@
 
 ## [CloudETL-DataFusion-Airflow-BigQuery](https://github.com/ropelife/CloudETL-DataFusion-Airflow-BigQuery)
  - Developed a secure and efficient data pipeline leveraging Python, Cloud Data Fusion, Big Query and Airflow for seamless data movement and processing<br>
-     <img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github.com/ropelife/ropelife/assets/45571370/e00f0a92-a638-461f-919f-89adf1d23724" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github.com/ropelife/ropelife/assets/45571370/773285e5-e844-42fd-b0b0-2f633e2fd506g" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;
-
+     <img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github.com/ropelife/ropelife/assets/45571370/e00f0a92-a638-461f-919f-89adf1d23724" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github.com/ropelife/ropelife/assets/45571370/773285e5-e844-42fd-b0b0-2f633e2fd506g" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github.com/ropelife/ropelife/assets/45571370/8fb44113-2b60-43f7-9cb8-36776df7b598" height="35" width="35">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## [Live Stream Chat App](https://github.com/ropelife/Live-Stream-Chat-App-Spring-Boot---Web-Socket-.git)
